@@ -1,0 +1,7 @@
+C:\Users\anvva\OneDrive\Рабочий стол\C#\1400_CSharp\bin\Debug\1400.exe.config
+C:\Users\anvva\OneDrive\Рабочий стол\C#\1400_CSharp\bin\Debug\1400.exe
+C:\Users\anvva\OneDrive\Рабочий стол\C#\1400_CSharp\bin\Debug\1400.pdb
+C:\Users\anvva\OneDrive\Рабочий стол\C#\1400_CSharp\obj\Debug\1400.csproj.AssemblyReference.cache
+C:\Users\anvva\OneDrive\Рабочий стол\C#\1400_CSharp\obj\Debug\1400.csproj.CoreCompileInputs.cache
+C:\Users\anvva\OneDrive\Рабочий стол\C#\1400_CSharp\obj\Debug\1400.exe
+C:\Users\anvva\OneDrive\Рабочий стол\C#\1400_CSharp\obj\Debug\1400.pdb
